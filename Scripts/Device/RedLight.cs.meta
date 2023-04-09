@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1900d8537134de94da1c46fe68e2fb4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 4100737119632885603, guid: a73ccbfb6984a4b479970d70afc3ba4c, type: 3}
+  - lightOn: {fileID: 21300054, guid: ad9cf93034405d14597cee64e4c9084b, type: 3}
+  - lightOff: {fileID: 21300056, guid: ad9cf93034405d14597cee64e4c9084b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
